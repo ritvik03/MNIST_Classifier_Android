@@ -1,9 +1,11 @@
-# A_Guide_to_Running_Tensorflow_Models_on_Android
+# MNIST Classifier Android App
+
+## A_Guide_to_Running_Tensorflow_Models_on_Android
 This is the code for"A Guide to Running Tensorflow Models on Android" By SIraj Raval on Youtube
 
-# Overview
+## Overview
 
-This is the code for [this](https://youtu.be/kFWKdLOxykE) video on Youtube by Siraj Raval. 
+This is the code for [this](https://youtu.be/kFWKdLOxykE) video on Youtube. 
 
 ![Image](images/demo.png)
 
@@ -48,4 +50,4 @@ To interact with TensorFlow you will need an instance of TensorFlowInferenceInte
 ## Credits
 
 Credits for this code go to [mari-linhares](https://github.com/mari-linhares/mnist-android-tensorflow). I've merely created a wrapper to get people started. 
-# MNIST Classifier Android App
+
